@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="955cd717-accf-4b5e-a3ce-d49b7e48776c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/templates/people.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PeopleWeb.java" afterPath="$PROJECT_DIR$/src/PeopleWeb.java" />
-    </list>
+    <list default="true" id="955cd717-accf-4b5e-a3ce-d49b7e48776c" name="Default" comment="" />
     <ignored path="PeopleWeb.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -198,7 +195,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InventoryTracker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HangmanGame" />
     <property name="FullScreen" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -662,12 +659,12 @@
       <option name="presentableId" value="Default" />
       <updated>1474567557643</updated>
       <workItem from="1474567559315" duration="10907000" />
-      <workItem from="1474658011060" duration="38000" />
+      <workItem from="1474658011060" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10945000" />
+    <option name="totallyTimeSpent" value="11002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
